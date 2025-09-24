@@ -5,12 +5,12 @@ Bu projede **Cats vs Dogs** veri seti kullanılarak kedi ve köpek görüntüler
 Amaç, sıfırdan basit bir CNN ile başlayıp, **Transfer Learning (MobileNetV2)** kullanarak performansı karşılaştırmaktır.  
 
 ## 🛠️ Kullanılan Yöntemler
-- Veri önişleme (boyutlandırma, normalize etme)
+- Veri önişleme 
 - Data Augmentation (flip, rotation, zoom)
 - CNN tabanlı Baseline model
 - Transfer Learning (MobileNetV2, fine-tuning)
 - Hiperparametre denemeleri (learning rate, dropout)
-- Grad-CAM görselleştirme (modelin dikkat ettiği bölgeleri açıklamak için)
+- Grad-CAM görselleştirme 
 
 ## 📎 Kaggle Notebook
 👉 [Kaggle Notebook Linkim]((https://www.kaggle.com/code/yiitdoukanylmaz/proje))
