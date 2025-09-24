@@ -13,7 +13,7 @@ Amaç, sıfırdan basit bir CNN ile başlayıp, **Transfer Learning (MobileNetV2
 - Grad-CAM görselleştirme 
 
 ## 📎 Kaggle Notebook
-👉 [Kaggle Notebook Linkim]((https://www.kaggle.com/code/yiitdoukanylmaz/proje))
+👉 [Kaggle Notebook Linkim](https://www.kaggle.com/code/yiitdoukanylmaz/proje))
 
 
 
