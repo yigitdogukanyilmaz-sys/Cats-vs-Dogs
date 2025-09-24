@@ -1,5 +1,20 @@
 # Cats vs Dogs — Deep Learning Project 
 
+## 🎯 Proje Amacı
+Bu projede **Cats vs Dogs** veri seti kullanılarak kedi ve köpek görüntülerini sınıflandıran bir derin öğrenme modeli geliştirilmiştir.  
+Amaç, sıfırdan basit bir CNN ile başlayıp, **Transfer Learning (MobileNetV2)** kullanarak performansı karşılaştırmaktır.  
+
+## 🛠️ Kullanılan Yöntemler
+- Veri önişleme (boyutlandırma, normalize etme)
+- Data Augmentation (flip, rotation, zoom)
+- CNN tabanlı Baseline model
+- Transfer Learning (MobileNetV2, fine-tuning)
+- Hiperparametre denemeleri (learning rate, dropout)
+- Grad-CAM görselleştirme (modelin dikkat ettiği bölgeleri açıklamak için)
+
+## 📎 Kaggle Notebook
+👉 [Kaggle Notebook Linkim]((https://www.kaggle.com/code/yiitdoukanylmaz/proje))
+
 
 
  Özet
